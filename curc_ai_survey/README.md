@@ -1,0 +1,4 @@
+# Artificial Intelligence Powered Research: A survey of the current and planned usage of AI across research disciplines in a High Performance Computing community 
+
+The growing integration of Artificial Intelligence (AI) across diverse research disciplines necessitates a comprehensive understanding of researchers’ current and anticipated AI-related needs. The Research Computing group at the University of Colorado Boulder recently conducted a survey among campus researchers and the broader RMACC) community to evaluate AI usage trends, associated computational demands, and challenges faced by researchers. The survey examined  discipline-specific differences in each area. Our findings highlight the importance of understanding the composition of a research community when investing in infrastructure and developing training materials.  
+
